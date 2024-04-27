@@ -72,8 +72,8 @@ if __name__ == '__main__':
     Gx = 0x79BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798
     Gy = 0x483ADA7726A3C4655DA4FBFC0E1108A8FD17B448A68554199C47D08FFB10D4B8
 
-    pub_key_x = 0xd6597d465408e6e11264c116dd98b539740e802dc756d7eb88741696e20dfe7d
-    pub_key_y = 0x3588695d2e7ad23cbf0aa056d42afada63036d66a1d9b97070dd6bc0c87ceb0d
+    pub_key_x = 0x26597xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    pub_key_y = 0x158b6xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     pub_point = (pub_key_x, pub_key_y)
 
     print("Calculating private key...")
