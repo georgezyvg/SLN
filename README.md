@@ -8,11 +8,8 @@ This Algorithm were created after enhancing Montgomery ladder and Index Calculus
 Be sure to add your own public key XY before using. 
 
 
-
-[code]
 pip install sympy , numpy , multiprocessing
 
-[/code]
 
 
 
